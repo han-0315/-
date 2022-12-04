@@ -1,0 +1,23 @@
+Intel® AI Academy Content License
+
+DO NOT DOWNLOAD, ACCESS, COPY, OR USE ANY PORTION OF THE CONTENT UNTIL YOU HAVE READ AND ACCEPTED THE TERMS AND CONDITIONS OF THIS AGREEMENT. BY DOWNLOADING, ACCESSING, COPYING OR USING THE CONTENT, YOU AGREE TO BE LEGALLY BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. If You do not agree to be bound by, or the entity for whose benefit You act has not authorized You to accept, these terms and conditions, do not download, access, copy or use the Content and destroy all copies of the Content in Your possession. 
+
+This CONTENT LICENSE AGREEMENT (this “Agreement”) is entered into between Intel Corporation, a Delaware corporation (“Intel”) and You. “You” refers to you or your employer or other entity for whose benefit you act, as applicable. If you are agreeing to the terms and conditions of this Agreement on behalf of a company or other legal entity, you represent and warrant that you have the legal authority to bind that legal entity to the Agreement, in which case, "You" or "Your" shall be in reference to such entity. Intel and You are referred to herein individually as a “Party” or, together, as the “Parties”.
+
+The Parties, in consideration of the mutual covenants contained in this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which they acknowledge, and intending to be legally bound, agree as follows:  
+
+1. Purpose: Intel has created certain technical course content that is suitable for use in university classroom settings (the “Content”), and You desire to access and use the Content in a university classroom setting.
+2. License:  Intel hereby grants You a non-exclusive, worldwide, royalty-free license (without the right to sublicense) to copy, publicly perform, publicly display and otherwise use the Content solely in connection with Your delivery of an educational class relating to the Content. 
+3. License Restrictions: 
+a. You must credit Intel when using the materials. You may not remove any copyright notices, and you may not publish, distribute, or otherwise use the Content other than as specifically stated in Section 2. If you want to edit the Content, please share the edited Content with Intel or provide feedback so that Intel can provide you with updated Content. 
+b. You may use a subset of the Content slides. 
+c. No part of the Content may be used as part of a certification course that is not affiliated with an accredited academic institution.
+d. You agree to provide feedback to Intel on the Content materials when asked. 
+e. You agree to report the number of students who received instruction on the Content each term when asked.
+f. You may not use the Content in any way that is illegal or unethical, or that might disparage Intel or its products, bring Intel’s name into disrepute, diminish the value of Intel’s brand, damage Intel’s reputation and goodwill, or otherwise be detrimental to the interests of Intel.
+4. Intellectual Property: 
+a. All right, title and interest in and to the Content are and will remain the exclusive property of Intel and its licensors or suppliers. Nothing in this Agreement shall limit Intel’s right to license, assign or otherwise use the Content or any part thereof. You shall not attempt to obtain a copyright for the Content. Except as expressly set forth herein, this Agreement does not grant You any rights, implied or otherwise, to any other content or intellectual property of Intel. 
+b. Any use by You of “Intel” or any Intel logo or trademark in association with any use of the Content, other than as such may already be part of the Content as delivered to you by Intel, requires the prior written approval of Intel.  
+5. Exclusion of Warranties / Limitation of Liability: The Content is provided “as is” without any express or implied warranty of any kind. In no event shall Intel be liable for loss of profits, loss of revenue, or indirect, special, exemplary or punitive or consequential damages in connection with this Agreement.
+6. Governing Law & Forum Selection: This Agreement shall be governed by New York law without regard to its choice of law provisions.  All disputes arising from or related to this Agreement shall be exclusively litigated in the State and Federal courts located in New York City.
+7. Invalidity.  Any provision of this Agreement found to be invalid, unenforceable, or prohibited by law will be ineffective only to the extent of such invalidity, unenforceability, or prohibition without invalidating the rest of this Agreement.	
