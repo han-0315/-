@@ -1,0 +1,34 @@
+image: docker:latest
+
+services:
+  - docker:dind
+
+stages:
+  - build
+  - test
+  - deploy
+
+variables:
+  DOCKER_DRIVER: overlay
+  IMAGE_NAME: my-hello-world
+
+before_script:
+  - docker info
+  - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+
+build:
+  stage: build
+  script:
+    - docker build -t $IMAGE_NAME .
+    - docker tag $IMAGE_NAME $CI_REGISTRY_IMAGE/$IMAGE_NAME
+    - docker push $CI_REGISTRY_IMAGE/$IMAGE_NAME
+
+test:
+  stage: test
+  script:
+    - docker run $CI_REGISTRY_IMAGE/$IMAGE_NAME python -m pytest
+
+deploy:
+  stage: deploy
+  script:
+    - echo "Deploying..."
